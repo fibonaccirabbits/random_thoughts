@@ -1,5 +1,5 @@
 ## Random thougths and ideas
 
-/root: coding school
+/root: a coding school
 
 ![root log](root.png)
