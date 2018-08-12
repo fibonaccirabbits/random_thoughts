@@ -5,7 +5,7 @@
 **spread the magic of coding to kids in Indonesia and Malaysia** 
 
 
-<img src="src_mult.png" alt="drawing" width="200px"/>
+<img src="src_mult.png" alt="drawing" width="300px"/>
 
 
 
