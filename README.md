@@ -4,7 +4,7 @@
 
 **spread the magic of coding to kids in Indonesia and Malaysia** 
 
-![src logo](src_mult.png)
+![src logo](src_mult.png){width=50%}
 
 
 
