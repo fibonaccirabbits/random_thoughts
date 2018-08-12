@@ -2,4 +2,6 @@
 
 /root: a coding school
 
-![root log](root.png)
+![root logo](root.png)
+
+![src logo](src.png)
