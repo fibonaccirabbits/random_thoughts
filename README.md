@@ -11,6 +11,6 @@
 
 
 
-**Avatar wearing an src coding school tshirt** 
+**An avatar wearing an src coding school tshirt** 
 
-![src tshirt](avatar.png)
+<img src="avatar.png" alt="drawing" width="300px"/>
