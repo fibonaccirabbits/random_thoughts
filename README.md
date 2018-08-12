@@ -6,8 +6,6 @@
 
 
 <img src="src_mult.png" alt="drawing" width="200px"/>
-![src logo](src_mult.png){width=10%}
-
 
 
 
