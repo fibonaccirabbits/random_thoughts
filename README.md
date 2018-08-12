@@ -5,7 +5,7 @@
 
 <img src="src_mult.png" alt="drawing" width="300px"/>
 
- \
+ <br/>
 
 **An avatar wearing an src coding school tshirt** 
 
