@@ -10,3 +10,9 @@
 **An avatar wearing an src coding school tshirt** 
 
 <img src="avatar.png" alt="drawing" width="300px"/>
+
+
+**Data visualization mini-course** 
+
+<img src="micro_vis.png" alt="drawing" width="300px"/>
+
