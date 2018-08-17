@@ -12,7 +12,7 @@
 <img src="src/avatar.png" alt="drawing" width="300px"/>
 
 
-# Data visualization mini-course 
+# Data visualization micro-course 
 
 <img src="src/micro_vis-04.png" alt="drawing" width="700px"/>
 
