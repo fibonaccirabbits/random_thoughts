@@ -3,16 +3,16 @@
 **src: a (imaginary) coding school. Aim: to spread the magic of coding to kids in Indonesia and Malaysia** 
 
 
-<img src="src_mult.png" alt="drawing" width="300px"/>
+<img src="src/src_mult.png" alt="drawing" width="300px"/>
 
  <br/>
 
 **An avatar wearing an src coding school tshirt** 
 
-<img src="avatar.png" alt="drawing" width="300px"/>
+<img src="src/avatar.png" alt="drawing" width="300px"/>
 
 
 # Data visualization mini-course 
 
-<img src="micro_vis-04.png" alt="drawing" width="700px"/>
+<img src="src/micro_vis-04.png" alt="drawing" width="700px"/>
 
