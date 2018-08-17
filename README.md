@@ -1,4 +1,4 @@
-## Random thougths and ideas
+# Random thougths and ideas
 
 **src: a (imaginary) coding school. Aim: to spread the magic of coding to kids in Indonesia and Malaysia** 
 
