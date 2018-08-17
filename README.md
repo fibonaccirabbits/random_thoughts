@@ -14,5 +14,5 @@
 
 **Data visualization mini-course** 
 
-<img src="micro_vis.png" alt="drawing" width="600px"/>
+<img src="micro_vis.png" alt="drawing" width="800px"/>
 
